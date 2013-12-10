@@ -1,5 +1,5 @@
-Splunk for Quake 3 CPMA
-=====================
+Splunk App for Quake 3 CPMA
+===========================
 
 Splunk Application for Quake 3 CPMA servers
 
